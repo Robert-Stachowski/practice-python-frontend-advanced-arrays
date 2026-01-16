@@ -15,4 +15,4 @@ function sumFunction(accumulator,element){
     
 }
 
-console.log(sumOfEvenNumbers)
+console.log(sumOfEvenNumbers);
